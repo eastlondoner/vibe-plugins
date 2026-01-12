@@ -1,0 +1,28 @@
+{
+  "name": "vibe-plugins",
+  "version": "1.0.0",
+  "description": "Claude Code skills and plugins marketplace",
+  "author": "eastlondoner",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eastlondoner/vibe-plugins.git"
+  },
+  "homepage": "https://github.com/eastlondoner/vibe-plugins#readme",
+  "bugs": {
+    "url": "https://github.com/eastlondoner/vibe-plugins/issues"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "plugins",
+    "skills",
+    "ai",
+    "marketplace"
+  ],
+  "files": [
+    ".claude-plugin",
+    "plugins",
+    "README.md"
+  ]
+}

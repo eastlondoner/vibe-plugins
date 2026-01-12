@@ -1,0 +1,14 @@
+{
+  "name": "vibe-plugins",
+  "owner": {
+    "name": "eastlondoner"
+  },
+  "plugins": [
+    {
+      "name": "example-skills",
+      "source": "./plugins/example-skills",
+      "description": "Example skills plugin demonstrating plugin structure",
+      "version": "1.0.0"
+    }
+  ]
+}

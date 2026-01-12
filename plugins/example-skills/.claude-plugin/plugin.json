@@ -1,0 +1,9 @@
+{
+  "name": "example-skills",
+  "version": "1.0.0",
+  "description": "Example skills plugin demonstrating plugin structure",
+  "author": {
+    "name": "eastlondoner"
+  },
+  "repository": "https://github.com/eastlondoner/vibe-plugins"
+}
