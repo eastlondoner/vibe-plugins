@@ -15,7 +15,7 @@ Add this marketplace to Claude Code:
 Then install plugins:
 
 ```bash
-/plugin install example-skills@vibe-plugins
+/plugin install vibe-skills@vibe-plugins
 ```
 
 ### Via npm
@@ -28,7 +28,7 @@ npm install vibe-plugins
 
 | Plugin | Description |
 |--------|-------------|
-| `example-skills` | Example skills plugin with code review skill |
+| `vibe-skills` | Example skills plugin with code review skill |
 
 ## Development
 
@@ -46,7 +46,7 @@ cd submodules/plugins/vibe-plugins
 .claude-plugin/
   marketplace.json     # Marketplace definition
 plugins/
-  example-skills/      # Plugin directory
+  vibe-skills/      # Plugin directory
     .claude-plugin/
       plugin.json      # Plugin manifest
     skills/

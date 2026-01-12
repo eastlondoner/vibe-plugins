@@ -1,7 +1,7 @@
 {
-  "name": "example-skills",
+  "name": "vibe-skills",
   "version": "1.0.0",
-  "description": "Example skills plugin demonstrating plugin structure",
+  "description": "Claude Code skills for vibe coding",
   "author": {
     "name": "eastlondoner"
   },

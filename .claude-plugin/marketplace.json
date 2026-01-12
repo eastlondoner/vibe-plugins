@@ -5,9 +5,9 @@
   },
   "plugins": [
     {
-      "name": "example-skills",
-      "source": "./plugins/example-skills",
-      "description": "Example skills plugin demonstrating plugin structure",
+      "name": "vibe-skills",
+      "source": "./plugins/vibe-skills",
+      "description": "Claude Code skills for vibe coding",
       "version": "1.0.0"
     }
   ]
